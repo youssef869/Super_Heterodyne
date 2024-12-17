@@ -9,7 +9,7 @@ The simulation involves:
 - Modulating input stereo signals (provided as WAV files) to form a Frequency Division Multiplexed (FDM) signal.
 - Implementing the core blocks of a superheterodyne receiver, including RF Bandpass Filters, Mixers, IF Bandpass Filters, and Baseband Detection stages.
 
-## Project Steps
+## Implementation
 
 1. **Input Signals:**
 
@@ -52,7 +52,7 @@ The simulation involves:
 - **Lowpass Filter:**
   Designed with `fdesign.lowpass` to remove high-frequency components and recover the baseband signal.
 
-## Output figures
+## Output Figures
 
 - Plots of the signal at various stages, including:
   - FDM signal spectrum.
