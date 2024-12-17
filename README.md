@@ -61,3 +61,5 @@ The simulation involves:
 - Audio playback of the reconstructed baseband signal to verify successful demodulation.
 
 
+more details is in attached pdf file.
+
