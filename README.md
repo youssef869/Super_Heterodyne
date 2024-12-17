@@ -1,4 +1,4 @@
-# Superheterodyne Receiver Modeling
+# Super-heterodyne Receiver Modeling
 
 ## Project Description
 
