@@ -41,7 +41,7 @@ The simulation involves:
 
    - The recovered signal is downsampled and played to verify its quality.
 
-## MATLAB Key Functions
+## Used MATLAB Functions
 
 - **RF and IF Bandpass Filters:**
   Designed using MATLAB's `fdesign.bandpass` and `design` functions with Butterworth filters for sharp transition bands.
